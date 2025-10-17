@@ -1,0 +1,5 @@
+Jane Smith - Software Engineer
+Experience: 3 years Python, 2 years Java. Flask experience for 1 year.
+Skills: Python, Flask, MySQL. Basic familiarity with Azure.
+Education: BSc in Computer Science.
+Note: No explicit mention of CI/CD or NoSQL experience.

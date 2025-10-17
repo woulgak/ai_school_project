@@ -1,0 +1,5 @@
+John Doe - Python Developer
+Experience: 7 years in Python. Worked extensively with Django (5+ years).
+Skills: Python, Django, PostgreSQL, AWS EC2/S3, Docker.
+Projects: Led migration to AWS cloud. Implemented GitLab CI for 4 projects.
+Languages: English (Native), Latvian (Fluent).

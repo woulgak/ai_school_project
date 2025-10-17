@@ -1,0 +1,9 @@
+Title: Senior Python Developer
+Location: Remote (EU)
+Requirements:
+- Minimum 5 years of professional Python development experience.
+- Strong knowledge of Django or Flask frameworks.
+- Experience with cloud platforms (AWS, Azure, or GCP).
+- Proficient in SQL and NoSQL databases (PostgreSQL/MongoDB).
+- Excellent command of English.
+- Experience with CI/CD pipelines (e.g., Jenkins, GitLab CI).

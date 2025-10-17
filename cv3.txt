@@ -1,0 +1,4 @@
+Peter Jones - Data Analyst
+Experience: 10 years in data analysis. Used R and SAS extensively.
+Skills: R, SAS, Excel, Basic Python scripting (less than 1 year).
+Note: Focus is on statistical analysis, not web development frameworks (Django/Flask).
