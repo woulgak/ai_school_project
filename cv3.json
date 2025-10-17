@@ -1,0 +1,15 @@
+{
+    "match_score": 10,
+    "summary": "Nav atbilstības. Kandidāta pieredze ir gandrīz pilnībā vērsta uz Datu Analīzi, izmantojot R un SAS. Trūkst būtiskas Python izstrādes pieredzes un galveno tehnoloģiju (Django/Flask, mākoņi) zināšanas.",
+    "strengths": [
+        "Ir minimālas atsauces uz 'Basic Python scripting'."
+    ],
+    "missing_requirements": [
+        "Trūkst 5 gadu profesionālā Python izstrādes pieredze (ir mazāk par 1 gadu 'scripting').",
+        "Nav pieredzes ar Django vai Flask framework.",
+        "Nav pieredzes ar Cloud platformām (AWS, Azure, GCP).",
+        "Trūkst pieredzes ar CI/CD pipelines.",
+        "Nav pieredzes ar SQL/NoSQL datu bāzēm no izstrādātāja viedokļa (JD fokusā)."
+    ],
+    "verdict": "not a match"
+}

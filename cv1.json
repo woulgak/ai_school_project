@@ -1,0 +1,14 @@
+{
+    "match_score": 95,
+    "summary": "Lieliska atbilstība. Kandidāts pārsniedz prasības attiecībā uz Python/Django pieredzi, un viņam ir tieša pieredze ar AWS un CI/CD.",
+    "strengths": [
+        "7 gadu Python pieredze, kas pārsniedz 5 gadu minimumu.",
+        "5+ gadu plaša pieredze ar Django framework.",
+        "Tieša pieredze ar AWS (EC2/S3) un GitLab CI/CD.",
+        "Spēcīgas PostgreSQL zināšanas."
+    ],
+    "missing_requirements": [
+        "Trūkst tiešas atsauces uz NoSQL datu bāzēm (piemēram, MongoDB)."
+    ],
+    "verdict": "strong match"
+}

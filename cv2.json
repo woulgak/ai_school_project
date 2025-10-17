@@ -1,0 +1,17 @@
+{
+    "match_score": 55,
+    "summary": "Iespējama atbilstība. Kandidātam ir zināma Python pieredze un zināšanas par Flask (alternatīvu JD minētajiem framework), taču viņa pieredzes gadi neatbilst minimumam un trūkst skaidras pieredzes ar CI/CD un NoSQL.",
+    "strengths": [
+        "Ir 3 gadu Python pieredze.",
+        "Ir pieredze ar Flask framework.",
+        "Ir bāzes zināšanas par Azure (mākoņplatforma).",
+        "Ir atsauce uz SQL datu bāzēm (MySQL)."
+    ],
+    "missing_requirements": [
+        "Trūkst JD prasītie 5 gadu minimums Python pieredze (ir tikai 3 gadi).",
+        "Nav skaidras pieredzes ar CI/CD sistēmām (Jenkins, GitLab CI).",
+        "Nav pieredzes ar NoSQL datu bāzēm (piemēram, MongoDB).",
+        "Nav pieminēta pieredze ar vadošajiem framework (Django/Flask) no JD viedokļa (Flask minēts, bet tikai 1 gads)."
+    ],
+    "verdict": "possible match"
+}
